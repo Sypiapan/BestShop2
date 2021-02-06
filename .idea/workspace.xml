@@ -11,7 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6526562-e483-4499-9d8f-4ded0f941e3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +46,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Prework/WAR_FER_W_34_Sass_RWD/01_Dzien_1/03_Partials_i_importowanie/01_Zadania/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Prework" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,6 +71,11 @@
       <workItem from="1606640664290" duration="15200000" />
       <workItem from="1606757557002" duration="11238000" />
       <workItem from="1607106867324" duration="675000" />
+      <workItem from="1610278021826" duration="12707000" />
+      <workItem from="1610388222906" duration="6079000" />
+      <workItem from="1610748243892" duration="1030000" />
+      <workItem from="1610783703008" duration="91000" />
+      <workItem from="1612614258178" duration="10985000" />
     </task>
     <servers />
   </component>
@@ -88,9 +98,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1607109095173">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1610783797323">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607109095173" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610783797323" />
   </component>
 </project>
